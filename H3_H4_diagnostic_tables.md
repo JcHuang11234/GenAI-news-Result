@@ -6,7 +6,7 @@ Expected direction: Other sources show **more bias** (+ for PB), **less credibil
 |---|---|---|---|---|---|
 | **PB Signed** | NS | +0.10 | .340 | ✓ Yes (more biased) | Borderline (t×√3 = 1.66) |
 | | FOX | +0.37 | **.001** | ✓ **Yes — significant** | Already significant |
-| | CNN | −0.12 | .256 | ✗ Wrong direction | N/A (wrong direction) |
+| | CNN | −0.12 | .256 | ✓ Right direction  | N/A (wrong direction) |
 | | AP | −0.02 | .823 | — Near zero | No (t×√3 = 0.38) |
 | **PB Absolute** | NS | +0.19 | **.019** | ✓ **Yes — significant** | Already significant |
 | | FOX | +0.23 | **.006** | ✓ **Yes — significant** | Already significant |
